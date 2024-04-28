@@ -31,3 +31,7 @@ O HANDMADE ATELIÊ está sendo desenvolvido por um grupo de estudantes de Ciênc
 # Metodologia ágil
 
 O projeto está sendo desenvolvido utilizando o método Scrum, visando aumentar a produtividade e organização do time.
+
+# Link para o Trello (somente para membros do time)
+
+[Trello](https://trello.com/b/F0SE9AWE/handmade-ateli%C3%AA)
