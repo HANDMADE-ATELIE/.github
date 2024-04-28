@@ -16,3 +16,16 @@ O HANDMADE ATELIÊ está sendo desenvolvido por um grupo de estudantes de Ciênc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right: 0.5rem" alt="Spring" height='50' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right: 0.5rem" alt="Mysql" height='50' />
 </div>
+
+# Ferramentas utilizadas no desenvolvimento
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right: 0.5rem" alt="React" height='50'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 0.5rem" alt="React" height='50'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 0.5rem" alt="React" height='50'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" style="padding-right: 0.5rem" alt="React" height='50'/>
+</div>
+
+# Metodologia ágil
+
+O projeto está sendo desenvolvido usando a metodologia Scrum, visando aumentar a produtividade e organização do time.
