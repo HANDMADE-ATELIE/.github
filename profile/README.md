@@ -24,6 +24,8 @@ O HANDMADE ATELIÊ está sendo desenvolvido por um grupo de estudantes de Ciênc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 0.5rem" alt="React" height='40'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 0.5rem" alt="React" height='40'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" style="padding-right: 0.5rem" alt="React" height='40'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" style="padding-right: 0.5rem" alt="React" height='40'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right: 0.5rem" alt="React" height='40'/>
 </div>
 
 # Metodologia ágil
