@@ -8,7 +8,7 @@ Além disso, oferecemos um serviço de personalização, onde você pode montar 
 
 O HANDMADE ATELIÊ está sendo desenvolvido por um grupo de estudantes de Ciência da Computação da Uniritter para a unidade curricular "Modelos, Métodos e Técnicas da Engenharia de Software". A ideia de um E-commerce de cadernos artesanais foi sugerida por uma das integrantes do grupo, pois ela já confeccionava cadernos há um tempo e achou interessante que existisse uma aplicação onde os clientes pudessem fazer o pedido de um caderno customizado.
 
-# Técnologias utilizadas no desenvolvimento
+# Tecnologias utilizadas no desenvolvimento
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 0.5rem" alt="React" height='50'/>
